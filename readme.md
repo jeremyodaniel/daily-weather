@@ -17,6 +17,6 @@ WHEN I click on a city in the search history<br>
 THEN I am again presented with current and future conditions for that city<br>
 
 
-#Mock-Up
+# Mock-Up
 
 ![Mock-up](assets/images/mock-up.png "Mock-up")
